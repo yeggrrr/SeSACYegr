@@ -51,9 +51,7 @@
 		68D9D3062CB4F67B00CFD7AD /* SeSAC_YegrConflict */ = {
 			isa = PBXGroup;
 			children = (
-				68D9D3072CB4F67B00CFD7AD /* SeSAC_YegrConflictApp.swift */,
-				68D9D3092CB4F67B00CFD7AD /* ContentView.swift */,
-				68D9D30B2CB4F67C00CFD7AD /* Assets.xcassets */,
+				68D9D3152CB4F89200CFD7AD /* Yegr */,
 				68D9D30D2CB4F67C00CFD7AD /* Preview Content */,
 			);
 			path = SeSAC_YegrConflict;
@@ -65,6 +63,16 @@
 				68D9D30E2CB4F67C00CFD7AD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		68D9D3152CB4F89200CFD7AD /* Yegr */ = {
+			isa = PBXGroup;
+			children = (
+				68D9D3072CB4F67B00CFD7AD /* SeSAC_YegrConflictApp.swift */,
+				68D9D3092CB4F67B00CFD7AD /* ContentView.swift */,
+				68D9D30B2CB4F67C00CFD7AD /* Assets.xcassets */,
+			);
+			path = Yegr;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
